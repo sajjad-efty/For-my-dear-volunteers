@@ -1,0 +1,34 @@
+h1:hover {
+    border: solid 10px purple;
+    color: blue;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    border: solid 7px tan;
+    background-color: blueviolet;
+}
+
+body {
+    background-image: url('https://ideas.hallmark.com/wp-content/uploads/2020/08/WTW_ThankYouCards.jpg');
+
+}
+
+.paragraph {
+    padding: 6px;
+    margin: 6px;
+    border: solid 8px blue;
+    background-color: lightgreen;
+    color: purple;
+}
+
+.end {
+    background-color: skyblue;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    margin: 85px;
+    padding: 5px;
+    font-family: 'Lobster', cursive;
+}
